@@ -1,0 +1,399 @@
+canonical_identifier: bkk:krp/KR5b0305/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5b0305/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梅仙觀記
+  date: '2015-08-29 00:16:04.154689'
+  source:
+    repository: kanripo
+    path: KR5b0305
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0305_000-CK-KZ-jye.yaml, hash: 'sha256:1c0891345adf1ccdf9144690b702ab5179894406f7a264b5fd5df29f69a55e18'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0305_000-CK-KZ-jye.markers.yaml, hash: 'sha256:eab7787de5f9910435ecf023c3426b1e98e04b5bab8c4e298e15636dd2f0f852'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h2
+    span:
+    - body
+    - 0
+    - 2935
+  label: 梅仙事實
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h3
+    span:
+    - body
+    - 2935
+    - 3187
+  label: 梅先生碑
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h4
+    span:
+    - body
+    - 3187
+    - 3424
+  label: 書梅先生碑陰　大山蕭山明
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h5
+    span:
+    - body
+    - 3424
+    - 3475
+  label: 書梅先生碑後 小山蕭泰來
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h6
+    span:
+    - body
+    - 3475
+    - 3475
+  label: 宋勅誥
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h7
+    span:
+    - body
+    - 3475
+    - 3716
+  label: 尚書省牒
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h8
+    span:
+    - body
+    - 3716
+    - 4716
+  label: 加封¶<md:KR5b0305_HFL_000-012b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h9
+    span:
+    - body
+    - 4716
+    - 4716
+  label: 題詠
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h10
+    span:
+    - body
+    - 4716
+    - 4836
+  label: 梅先生贊
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h11
+    span:
+    - body
+    - 4836
+    - 4864
+  label: 題梅仙館　　　　　　　　　　　　 孟水部(賓于)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h12
+    span:
+    - body
+    - 4864
+    - 4892
+  label: 梅先生故居　　　　　　　　　　　　黃太史(庭堅)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h13
+    span:
+    - body
+    - 4892
+    - 5018
+  label: 寄梅仙觀楊道師　　　　　　　　　　蘇黃門(轍)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h14
+    span:
+    - body
+    - 5018
+    - 5074
+  label: 題梅仙館　　　　　　　　　　　　　楊次公(傑)¶<md:KR5b0305_HFL_000-017a>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h15
+    span:
+    - body
+    - 5074
+    - 5164
+  label: 題梅仙觀　　　　　　　　　　　　　洪龜父(朋)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h16
+    span:
+    - body
+    - 5164
+    - 5220
+  label: 題梅山　　　　　　　　　　　　　　陳　闡
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h17
+    span:
+    - body
+    - 5220
+    - 5276
+  label: 題梅仙館　　　　　　　　　　　　　朱令粹
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h18
+    span:
+    - body
+    - 5276
+    - 5332
+  label: 乙卯禱雨梅壇　　　　　　　　　　　嚴令(椿齡)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h19
+    span:
+    - body
+    - 5332
+    - 5360
+  label: 題梅壇　　　　　　　　　　　　　　臨川令(呂防)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h20
+    span:
+    - body
+    - 5360
+    - 5540
+  label: 題梅仙觀¶<md:KR5b0305_HFL_000-018b>
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h21
+    span:
+    - body
+    - 5540
+    - 5800
+  label: 題梅仙觀　　　　　　　　　　　　　馬內翰(子才)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h22
+    span:
+    - body
+    - 5800
+    - 6010
+  label: 寄題梅壇　　　　　　　　　　　　　御史蔣(之奇)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h23
+    span:
+    - body
+    - 6010
+    - 6210
+  label: 題梅山　　　　　　　　　　　　　　天師張(景先)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h24
+    span:
+    - body
+    - 6210
+    - 6322
+  label: 題梅山(二首)　　　　　　　　　　  范仁仲
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h25
+    span:
+    - body
+    - 6322
+    - 6350
+  label: 題梅仙觀　　　　　　　　　　　　　陳藏一
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h26
+    span:
+    - body
+    - 6350
+    - 6390
+  label: 題梅壇　　　　　　　　　　　　　　左蜀王(時彥)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h27
+    span:
+    - body
+    - 6390
+    - 6418
+  label: 題梅仙壇　　　　　　　　　　　　　清江劉(霆午)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h28
+    span:
+    - body
+    - 6418
+    - 6505
+  label: 題梅壇
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h29
+    span:
+    - body
+    - 6505
+    - 6545
+  label: 宿梅仙壇　　　　　　　　　　　　　(張廣漢)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h30
+    span:
+    - body
+    - 6545
+    - 6631
+  label: 題梅壇　　　　　　　　　　　　　　鍾　訧
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h31
+    span:
+    - body
+    - 6631
+    - 6659
+  label: 遊梅壇有感　　　　　　　　　　　　臨川吳(季先)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h32
+    span:
+    - body
+    - 6659
+    - 6687
+  label: 賡梅山壁間韻　　　　　　　　　　　古旴鄧(夢杰)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h33
+    span:
+    - body
+    - 6687
+    - 6715
+  label: 題梅山　　　　　　　　　　　　　　東嘉趙(必橦)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h34
+    span:
+    - body
+    - 6715
+    - 6887
+  label: 題梅壇　　　　　　　　　　　　　　曹仙家
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h35
+    span:
+    - body
+    - 6887
+    - 6943
+  label: 立春寄梅壇楊逸老　　　　　　　　　范太中
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h36
+    span:
+    - body
+    - 6943
+    - 6999
+  label: 題梅壇毛慶甫雲悅樓　　　　　　　　蕭泰來
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h37
+    span:
+    - body
+    - 6999
+    - 7465
+  label: 題梅山雲悅樓　　　　　　　　　　　約山朱(行父)
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR5b0305_CK-KZ-jye_000-h38
+    span:
+    - body
+    - 7465
+    - 7493
+  label: 題梅山　　　　　　　　　　　　　　薛修竹
+  type: section
+  level: 3
+hash: sha256:b6fdcdc3fbafd1fe908610307135d8e03f7cc27cce7ad40620092e46b0186b4f

@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0305/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0305/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梅仙觀記
+  date: '2015-08-29 00:16:04.154689'
+  source:
+    repository: kanripo
+    path: KR5b0305
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0305_000-ZTDZ.yaml, hash: 'sha256:bcaca7bfcac783757c13e39cbc1f1d579b27d2bca4ac3e1af6d9310599e5a8cf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0305_000-ZTDZ.markers.yaml, hash: 'sha256:fea09b5b6426cb4b6ab67ff6903247789bb81b129688d01648277335d9ccdfd9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0305_SJB_000-110061a
+    span:
+    - body
+    - 0
+    - 7766
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:542f23bed300abb1871ff1ecf843af38b977334a1eccda78f937c8149cfd21c0
