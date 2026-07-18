@@ -24,7 +24,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5b0305_000-CK-KZ-jye.yaml, hash: 'sha256:1c0891345adf1ccdf9144690b702ab5179894406f7a264b5fd5df29f69a55e18'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5b0305_000-CK-KZ-jye.markers.yaml, hash: 'sha256:eab7787de5f9910435ecf023c3426b1e98e04b5bab8c4e298e15636dd2f0f852'}
+  - {seq: 0, role: markers, filename: assets/KR5b0305_000-CK-KZ-jye.markers.yaml, hash: 'sha256:6ff00f9f69f787a96669e642c3252a0992a1609a7b6ec610923096adc1a19d71'}
 table_of_contents:
 - ref:
     seq: 0
@@ -396,4 +396,4 @@ table_of_contents:
   label: 題梅山　　　　　　　　　　　　　　薛修竹
   type: section
   level: 3
-hash: sha256:b6fdcdc3fbafd1fe908610307135d8e03f7cc27cce7ad40620092e46b0186b4f
+hash: sha256:155eac7914b6e288eaf45fcb7a27be05ffd836fa62872f1e200dcf43fa1f867e
